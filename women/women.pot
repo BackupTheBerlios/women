@@ -1,0 +1,14 @@
+/*
+ * Archivo de cadenas traducibles generado por Glade.
+ * Añada este archivo a su POTFILES.in de su proyecto.
+ * NO lo compile como parte de su aplicación.
+ */
+
+gchar *s = N_("(C) 2002 Amaya M. Rodrigo Sastre");
+gchar *s = N_("Women is distributed under the terms of the GPL.");
+gchar *s = N_("translator_credits");
+gchar *s = N_("Women");
+gchar *s = N_("_Nuevo");
+gchar *s = N_("Nuevo archivo");
+gchar *s = N_("Abrir un archivo");
+gchar *s = N_("Guardar archivo");
